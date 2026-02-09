@@ -2,8 +2,9 @@
 name = "egui-win32"
 version = "0.1.0"
 edition = "2021"
+description = "Windows32 input handler for egui. Takes input from windows api, WndProc and converts it into egui compatible RawInput."
 license = "MIT"
-
+repository = "https://github.com/Fetch1337/egui-win32"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
